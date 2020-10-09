@@ -1,6 +1,7 @@
 # **CS50 STUDENTS, TAKE NOTE**
 ### This repository contains my homework submission for the Degrees problem set. If you have not already submitted your homework, please keep in mind cs50's academic honesty policy. In other words, spoiler warning!
 
+
 ----
 
 A "Seven Degrees of Kevin Bacon"-like tool, this assignment puts into practice *Breadth First Search* (BFS) instead of *Depth First Search* (DFS) to find the shortest path of connections between one actor to another. The data in **large** and **small** is provided from IMDB and is structured such that there is are three CSVs: one for movies and their IDs, another for people and their IDs, and lastly "stars.csv" which acts as a join table to link both people and movies by IDs.
